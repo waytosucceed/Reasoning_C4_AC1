@@ -1,0 +1,38 @@
+[
+  {
+    "questionNo": "Q22",
+    
+    "question": "Point S is 14 m towards the West of point P. Point Q is 4 m towards the South of point S. Point U is 9 m towards the South of point S. Point T is 7 m towards the East of point Q. Point R is 4 m towards the North of point T. Point V is 4 m towards the South of point P.<br>Which of the following points are in a straight line?",
+    "options": [
+      "S, T, P",
+      "T, V, Q",
+      "S, Q, V",
+      "T, V, R"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q23",
+    
+    "question": "Point S is 14 m towards the West of point P. Point Q is 4 m towards the South of point S. Point U is 9 m towards the South of point S. Point T is 7 m towards the East of point Q. Point R is 4 m towards the North of point T. Point V is 4 m towards the South of point P.<br>P is in which direction with respect to R?",
+    "options": [
+      "North-East",
+      "West",
+      "East",
+      "South-East"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q24",
+   
+    "question": "Point S is 14 m towards the West of point P. Point Q is 4 m towards the South of point S. Point U is 9 m towards the South of point S. Point T is 7 m towards the East of point Q. Point R is 4 m towards the North of point T. Point V is 4 m towards the South of point P.<br> If a person walks 5 m towards North from point U and then takes a right turn, then which of the following points would he reach first?",
+    "options": [
+      "V",
+      "S",
+      "T",
+      "P"
+    ],
+    "correct": 2
+  }
+]

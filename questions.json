@@ -1,0 +1,106 @@
+[
+  {
+    "questionNo": "Q1",
+
+    "question": "If A × B means A is to the south of B; A + B means A is to the north of B; A % B means A is to the east of B: A — B means A is to the west of B; then in P % Q + R — S, S is in which direction with respect to Q?",
+    "options": [
+      "South-West",
+      "South-East",
+      "North-East",
+      "North-West",
+      "None of these"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q2",
+    
+    "question": "One morning after sunrise Nivedita and Niharika were talking to each other face to face at Dolphin crossing. If Niharika's shadow was exactly to the right of Nivedita, which direction Niharika was facing?",
+    "options": [
+      "North",
+      "South",
+      "East",
+      "Data is inadequate",
+      "None of these"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q3",
+    
+    "question": "Ravi left home and cycled 10 km towards South, then turned right and cycled 5 km and then again turned right and cycled 10 km. After this, he turned left and cycled 10 krn. How many kilometers will he have to cycle to reach his home straight?",
+    "options": [
+      "10 km",
+      "15 km",
+      "20 km",
+      "25 km",
+      "30 km"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q4",
+    
+    "question": "After walking 6 km, I turned to the right and then walked 2 km. After then, 1 turned to the left and walked 10 km. In the end, I was moving towards the North. From which direction did I start my journey?",
+    "options": [
+      "North",
+      "South",
+      "East",
+      "West",
+      "South-East"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q5",
+    
+    "question": "One morning, Udai and Vishal were talking to each other face to face at a crossing. If Vishal's shadow was exactly to the left of Udai, which direction was Udai facing?",
+    "options": [
+      "East",
+     " West",
+      "North",
+      "South",
+      "North-East"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q6",
+    
+    "question": "If South-East becomes North, North-East becomes West and so on. What will West become?",
+    "options": [
+      "North-East",
+     " North-West",
+      "South-East",
+      "South-West",
+      "East"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q7",
+    
+    "question": "A man walks 5 km towards south and then turns to the right. After walking 3 km he turns to the left and walks 5 km. Now in which direction is he from the starting place?",
+    "options": [
+      "West",
+     "South",
+      "North-East",
+      "South-West",
+      "South-East"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q8",
+    
+    "question": "Rahul put his timepiece on the table in such a way that at 6 P.M. hour hand points to North. In which direction the minute hand will point at 9.15 P.M.?",
+    "options": [
+      "South-East",
+     " South",
+      "North",
+      "West",
+      "South-West"
+    ],
+    "correct": 3
+  }
+]

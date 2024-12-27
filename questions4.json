@@ -1,0 +1,119 @@
+[
+  {
+    "questionNo": "Q14",
+   
+    "question": "<ol style='text-align:start' type='i'><li>A # H means B is at I metre to the right of A</li><li>A $ B means B is at 1 metre to the North of A. </li><li>A * B means B is at 1 metre to the left of A.</li><li>A @ B means B is at I metre to the south of A.</li><li>In each question, first person from the left is facing North.</li></ol>According to P # R $ A * U, in which direction is U with respect to P?",
+    "options": [
+      "East",
+      "West",
+      "North",
+      "South",
+      "North-East"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q15",
+  
+    "question": "One morning after sunrise, Suresh was standing facing a pole. The shadow of the pole fell exactly to his right. To which direction was he facing?",
+    "options": [
+      "East",
+      "South",
+      "West",
+      "Data is inadequate",
+      "None of these"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q16",
+    
+    "question": "Four friends A, B, C and D live in a same locality. The house of B is in the east of A's house but in the north of C's house. The house of C is in the west of D's house. D's house is in which direction of A's house?",
+    "options": [
+      "South-East",
+      "North-East",
+      "East",
+      "Data is inadequate",
+      "None of these"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q17",
+    
+    "question": "Umesh directly went from P, to Q which is 9 feet distant. Then he turns to the right and walked 4 feet. After this he turned to the right and walked a distant which is equal from P to Q. Finally he turned to the right and walked 3 feet. How far is he now from P?",
+    "options": [
+      "6 feet",
+      "5 feet",
+      "1 feet",
+      "10 feet",
+      "4 feet"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q18",
+    
+    "question": "Shyam Walks 5 km towards East and then turns left and walks 6 km. Again he turns right and walks 9 km. Finally he turns to his right and walks 6 km. How far is he from the starting point?",
+    "options": [
+      "26 km",
+      "21 km",
+      "14 km",
+      "9 km",
+      "15 km"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q19",
+    
+    "question": "Some boys are sitting in three rows all facing North such that A is in the middle row. P is just to the right of A but in the same row. Q is just behind of P while R is in the North of A. In which direction of R is Q? ",
+    "options": [
+      "South",
+      "South-West",
+      "North-East",
+      "South-East ",
+      "North"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q20",
+    
+    "question": "Amit started walking positioning his back towards the sun. After some time, he turned left, then right and towords the left again. In which direction is he going now? ",
+    "options": [
+      "North or South",
+      "East or West",
+      "North or West ",
+      "South or West",
+      "None of these"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q21",
+    
+    "question": "Village Q is to the North of the village P. The village R is in the East of village Q. The village S is to the left of the village P. In which direction is the village S with respect to village R?",
+    "options": [
+      "West",
+      "South-West",
+      "South",
+      "North-West",
+      "South-East"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q22",
+    
+    "question": "Sundar runs 20 m towards East and turns to right and runs 10 m. Then he turns to the right and runs 9 m. Again he turns to right and runs 5 m. After this he turns to left and runs 12 m and finally he turns to right and 6 m. Now to which direction is Sundar facing?",
+    "options": [
+      "East",
+      "West",
+      "North",
+      "South",
+      "North-West"
+    ],
+    "correct": 2
+  }
+]

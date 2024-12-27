@@ -1,0 +1,38 @@
+[
+  {
+    "questionNo": "Q25",
+    
+    "question": "Suhas is standing facing West. He turns 225° in the anti-clockwise direction and after that 135° in the clockwise direction. Which direction is he facing now ?",
+    "options": [
+      "South",
+      "North",
+      "East",
+      "South-East"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q26",
+    
+    "question": "Point P is 11 km towards the East of point Q. A man starts from point Q and travles 9 km towards the West. He then takes a left turn and travels 4 km. He finally takes a left turn and travles 20 km before stopping. How far and towards which direction he must travel in order to reach point P? ",
+    "options": [
+      "9 km towards North",
+      "24 km towards South ",
+      "4 km towards North",
+      "11 km towards South"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q27",
+    
+    "question": "If South becomes North-East and North-West becomes South and the direction are arranged accordingly, then what will South-West become?",
+    "options": [
+      "South-West",
+      "South",
+      "East",
+      "North-West"
+    ],
+    "correct": 2
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "questionNo": "Q28",
+    "content":"Five friends A, B, C, D and E are sitting on a bench.<ol type='i'><li>C is sitting next to D.</li><li>E is on the left end of the bench.</li><li>A is sitting next to B.</li><li>D is not sitting with E.</li><li>A is on the right side of B and to the right side of E.</li><li>C is on second position from right.</li><li>A and C are sitting together.</li></ol>",
+    "question": "Five friends A, B, C, D and E are sitting on a bench.<ol type='i'><li>C is sitting next to D.</li><li>E is on the left end of the bench.</li><li>A is sitting next to B.</li><li>D is not sitting with E.</li><li>A is on the right side of B and to the right side of E.</li><li>C is on second position from right.</li><li>A and C are sitting together.</li></ol>What is the position of D?",
+    "options": [
+      "Extreme left",
+      "Extreme right",
+      "Third from left",
+      "Second from left ",
+      "None of these"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q29",
+    "content":"Five friends A, B, C, D and E are sitting on a bench.<ol type='i'><li>C is sitting next to D.</li><li>E is on the left end of the bench.</li><li>A is sitting next to B.</li><li>D is not sitting with E.</li><li>A is on the right side of B and to the right side of E.</li><li>C is on second position from right.</li><li>A and C are sitting together.</li></ol>",
+    "question": "Five friends A, B, C, D and E are sitting on a bench.<ol type='i'><li>C is sitting next to D.</li><li>E is on the left end of the bench.</li><li>A is sitting next to B.</li><li>D is not sitting with E.</li><li>A is on the right side of B and to the right side of E.</li><li>C is on second position from right.</li><li>A and C are sitting together.</li></ol>What is the position of B?",
+    "options": [
+      "Second from right",
+      "Centre",
+      "Extreme left",
+      "Second from left",
+      "None of these"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q30",
+    "content":"Five friends A, B, C, D and E are sitting on a bench.<ol type='i'><li>C is sitting next to D.</li><li>E is on the left end of the bench.</li><li>A is sitting next to B.</li><li>D is not sitting with E.</li><li>A is on the right side of B and to the right side of E.</li><li>C is on second position from right.</li><li>A and C are sitting together.</li></ol>",
+    "question": "Five friends A, B, C, D and E are sitting on a bench.<ol type='i'><li>C is sitting next to D.</li><li>E is on the left end of the bench.</li><li>A is sitting next to B.</li><li>D is not sitting with E.</li><li>A is on the right side of B and to the right side of E.</li><li>C is on second position from right.</li><li>A and C are sitting together.</li></ol>At what position is A sitting?",
+    "options": [
+      "Between B and C",
+      "Between D and C",
+      "Between E and D",
+      "Between C and E",
+      "None of these"
+    ],
+    "correct": 0
+  }
+]

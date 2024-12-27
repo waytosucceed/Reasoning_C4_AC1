@@ -1,0 +1,41 @@
+[
+  {
+    "questionNo": "Q11",
+    
+    "question": "<ol style='text-align:start' type='i'><li>8-trees -> mango, guava, papaya, pomegranate, lemon, banana, raspberry, and apple are in two rows, 4 in each facing North and South.</li><li>Lemon is between mango and apple but just opposite to guava.</li><li>Banana is at one end of a line and is just next in the right of guava or either banana tree is just after guava tree.</li><li>Raspberry tree which is at one end of a line, is just diagonally opposite to mango tree.</li></ol>Which of the following statements is definitely true? ",
+    "options": [
+      "Papaya tree is just near to apple tree.",
+      "Apple tree is just next to lemon tree",
+      "Raspberry tree is either left to Pomegranate or after.",
+      "Pomegranate tree is diagonally opposite to banana tree.",
+      "None of these"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q12",
+    
+    "question": "<ol style='text-align:start' type='i'><li>8-trees -> mango, guava, papaya, pomegranate, lemon, banana, raspberry, and apple are in two rows, 4 in each facing North and South.</li><li>Lemon is between mango and apple but just opposite to guava.</li><li>Banana is at one end of a line and is just next in the right of guava or either banana tree is just after guava tree.</li><li>Raspberry tree which is at one end of a line, is just diagonally opposite to mango tree.</li></ol> Which tree is just opposite to raspberry tree.",
+    "options": [
+      "Papaya",
+      "Pomegranate",
+      "Papaya or Pomegranate",
+      "Data is inadequate",
+      "Papaya or Banana"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q13",
+    
+    "question": "<ol style='text-align:start' type='i'><li>8-trees -> mango, guava, papaya, pomegranate, lemon, banana, raspberry, and apple are in two rows, 4 in each facing North and South.</li><li>Lemon is between mango and apple but just opposite to guava.</li><li>Banana is at one end of a line and is just next in the right of guava or either banana tree is just after guava tree.</li><li>Raspberry tree which is at one end of a line, is just diagonally opposite to mango tree.</li></ol> Which tree is just opposite to banana tree?",
+    "options": [
+      "Mango",
+      "Pomegranate",
+      "Papaya",
+      "Data is inadequate",
+      "None of these"
+    ],
+    "correct": 0
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "questionNo": "Q8",
+    
+    "question": "<ol style='text-align:start' type='i'><li>Six flats on a floor in two rows facing North and South are allotted to P, Q, R, S, T and U.</li><li>Q gets a North facing flat and is not next to S. </li><li>S and U get diagonally opposite flats.</li><li>R next to U, gets a South facing flat and T gets North facing flat.</li></ol>If the flats of P and T are interchanged then whose flat will be next to that of U?",
+    "options": [
+      "P",
+      "Q",
+      "R",
+      "T",
+      "S"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q9",
+    
+    "question": "<ol style='text-align:start' type='i'><li>Six flats on a floor in two rows facing North and South are allotted to P, Q, R, S, T and U.</li><li>Q gets a North facing flat and is not next to S. </li><li>S and U get diagonally opposite flats.</li><li>R next to U, gets a South facing flat and T gets North facing flat.</li></ol>Which of the following combination get South facing flats?",
+    "options": [
+      "QTS",
+      "UPT",
+      "URP",
+      "Data is inadequate",
+      "None of these"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q10",
+    
+    "question": "<ol style='text-align:start' type='i'><li>Six flats on a floor in two rows facing North and South are allotted to P, Q, R, S, T and U.</li><li>Q gets a North facing flat and is not next to S. </li><li>S and U get diagonally opposite flats.</li><li>R next to U, gets a South facing flat and T gets North facing flat.</li></ol>The flats of which of the other pair than SU, is diagonally opposite to each other?",
+    "options": [
+      "QP",
+      "QR",
+      "PT",
+      "TS",
+      "QS"
+    ],
+    "correct": 0
+  }
+]

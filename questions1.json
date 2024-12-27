@@ -1,0 +1,28 @@
+[
+  {
+    "questionNo": "Q6",
+    
+    "question": "Dev, Kumar, Nilesh, Ankur and Pintu are standing facing to the North in a playground such as given below:<ol style='text-align:start' type='i'><li>Kumar is at 40 m to the right of Ankur.</li><li>Dev is are 60 m in the South of Kumar.</li><li>Nilesh is at a distance of 25 m in the West of Ankur.</li><li>Pintu is at a distance of 90 m in the North of Dev.</li></ol>Which one is in the North-East of the person, who is to the left of Kumar?",
+    "options": [
+      "Dev",
+      "Nilesh",
+      "Ankur",
+      "Pintu",
+      "Pintu and Kumar"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q7",
+    
+    "question": "Dev, Kumar, Nilesh, Ankur and Pintu are standing facing to the North in a playground such as given below:<ol style='text-align:start' type='i'><li>Kumar is at 40 m to the right of Ankur.</li><li>Dev is are 60 m in the South of Kumar.</li><li>Nilesh is at a distance of 25 m in the West of Ankur.</li><li>Pintu is at a distance of 90 m in the North of Dev.</li></ol> If a boy starting from Nilesh, met Ankur and then Kumar and after this met Dev and then Pintu and all the time he walked in a straight line, then how much total distance did he covered?",
+    "options": [
+      "215 m",
+      "155 m",
+      "245 m",
+      "185 m",
+      "225 m"
+    ],
+    "correct": 0
+  }
+]

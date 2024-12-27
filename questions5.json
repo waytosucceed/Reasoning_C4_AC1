@@ -1,0 +1,86 @@
+[
+  {
+    "questionNo": "Q18",
+    
+    "question": "The door of a house opens to the South on pushing inside the house. Entering the door, there is a room towards the right hand. After entering the room, there is a window towards the right hand. What will be the direction of a man's face, if he is standing facing towards the window? ",
+    "options": [
+      "South",
+      "North",
+      "East",
+      "West"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q19",
+   
+    "question": "Vidya starts from her school on a cycle. After travelling some distance she takes a right turn and covers some distance. Then she turns to her leftand covers some more distance. Finally she turns right and covers some distance to reach her home. When she reached her home she was facing North. In which direction is her home from school?",
+    "options": [
+      "North-East",
+      "West",
+      "North-West",
+      "South"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q20",
+   
+    "question": "Two squads A and B of soldiers, moving towards East and West respectively, received the following commands-Left Turn, Left Turn, Left Turn, Right Turn, Left Turn. Which direction5. would the squads A and B face at the end respectively?",
+    "options": [
+      "East, West",
+      "South, North",
+      "North, South",
+      "West, East"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q21",
+    
+    "question": "A river flows West to East and on the way turns left to go in a semicircle arround a hillock, and then turns left in a right-angle. In which direction is the river finally flowing?",
+    "options": [
+      "South",
+      "North",
+      "East",
+      "West"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q22",
+    
+    "question": "Sub-inspector Aashish travelled from his Police post straight for 300 metres. He then turned left and travelled 500 metres straight, after which he turned left again and travelled for 300 metres straight. He then turned right and walked for another 600 metres straight. How far is he  from the Police post?",
+    "options": [
+      "1.0 km",
+      "1.1 km",
+      "1.4 km",
+      "1.8 km"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q23",
+    
+    "question": "After walking 4 km to East, Vijay turned to right and walked 3 km. Again turned to right and walked 7 km. Then he walked 7 km to North. Then he turned to right and walked 5 km. Again he turned to right and walked 4 km. What is the distance and direction of the terminal point from the initial point?",
+    "options": [
+      "2 km, West",
+      "2 km, East",
+      "4 km, East",
+      "4 km, West"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q24",
+    
+    "question": "On hearing a loud sound from point A, a policeman left his police post and proceeded to North, 4 km away to reach A. On reaching, he heard another sound and proceeded 4 km towards his left to the point B. From point B, he proceeded left to reach another place C, 4 km away. In which direction, he has to go to reach his police post?",
+    "options": [
+      "North",
+      "South-East",
+      "East",
+      "South"
+    ],
+    "correct": 2
+  }
+]

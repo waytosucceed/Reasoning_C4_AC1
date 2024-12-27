@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Class Activity 2</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  
+  <link rel="icon" type="image/x-icon" href="Logo_last.png">
+
+
+  <style>
+.correct {
+    background-color: rgb(167, 225, 243);
+    border-radius: 50%;
+    width: 100px;
+    height: 50px;
+    font-weight: bold;
+}
+  </style>
+
+</head>
+
+<body>
+  <audio id="cheers" >
+    <source src="cheers.mp3" type="audio/mpeg">
+  </audio>
+  <audio id="points" src="Points.mp3"></audio>
+  <audio id="fail" src="fail.mp3"></audio>
+  
+  <div class="header" style="width:100%; box-shadow:5px 5px 10px rgb(0, 0, 0); padding-bottom:10px;">
+    <img src="Logo.png" width="5%" style="float:left; margin-top:25px;" class="img-responsive">
+    <span><img src="header.png" width="30%" height="100px" class="img-responsive"></span>
+  </div>
+  <br><br>
+  <center>
+    <h1 id="heading" style="font-family: Impact">Lets Revise With The Teacher</h1>
+    <div class="maindiv container" style="padding-top: 50px;">
+  
+      <p style="font-size: 20px;">
+        Q23. What animal track does Yan first discover? <br><br>
+        <label id="label1"></label> 
+        <button onclick="func1()" id="btn1" class="correct">Check</button><br><br>
+
+        Q24. How does Yan describe the days he spends in the hills? <br><br>
+        <label id="label2"></label>
+        <button onclick="func2()" id="btn2" class="correct">Check</button><br><br>
+
+        Q25. What skill does Yan develop while spending time in the hills? <br><br>
+        <label id="label3"></label>
+        <button onclick="func3()" id="btn3" class="correct">Check</button><br><br>
+      </p> 
+    </div>
+
+    <script>
+      function func1() {
+        document.getElementById('label1').innerHTML = "Yan discovers the track of a wild deer.";
+        document.getElementById('btn1').style.display = "none";
+      }
+
+      function func2() {
+        document.getElementById('label2').innerHTML = "Yan describes them as 'the best days of my life' and his 'golden days.'";
+        document.getElementById('btn2').style.display = "none";
+      }
+
+      function func3() {
+        document.getElementById('label3').innerHTML = "Yan learns to follow the faintest trail of deer.";
+        document.getElementById('btn3').style.display = "none";
+      }
+    </script>
+  </center>
+</body>
+</html>
