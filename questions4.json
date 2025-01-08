@@ -2,7 +2,7 @@
   {
     "questionNo": "Q14",
    
-    "question": "<ol style='text-align:start' type='i'><li>A # H means B is at I metre to the right of A</li><li>A $ B means B is at 1 metre to the North of A. </li><li>A * B means B is at 1 metre to the left of A.</li><li>A @ B means B is at I metre to the south of A.</li><li>In each question, first person from the left is facing North.</li></ol>According to P # R $ A * U, in which direction is U with respect to P?",
+    "question": "<ol style='text-align:start' type='i'><li>A # B means B is at 1 metre to the right of A</li><li>A $ B means B is at 1 metre to the North of A. </li><li>A * B means B is at 1 metre to the left of A.</li><li>A @ B means B is at 1 metre to the south of A.</li><li>In each question, first person from the left is facing North.</li></ol>According to P # R $ A * U, in which direction is U with respect to P?",
     "options": [
       "East",
       "West",
